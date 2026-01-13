@@ -37,7 +37,6 @@ repos:
   #  hooks:
   #    - id: tofu_fmt
   #    - id: tofu_tflint
-  #    - id: tofu_validate
   # Golang
   #-   repo: https://github.com/golangci/golangci-lint
   #    rev: v1.61.0
