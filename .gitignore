@@ -1291,6 +1291,7 @@ $RECYCLE.BIN/
 
 *.swp
 secret*
+.secret*
 !go.mod
 **/collections/*/**
 **/roles/*/**
