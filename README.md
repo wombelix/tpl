@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2025 Dominik Wombacher <dominik@wombacher.cc>
+SPDX-FileCopyrightText: 2026 Dominik Wombacher <dominik@wombacher.cc>
 
 SPDX-License-Identifier: Apache-2.0
 -->
@@ -8,37 +8,34 @@ SPDX-License-Identifier: Apache-2.0
 
 Template repo with basic configs, LICENSE and README.
 
-[![REUSE status](https://api.reuse.software/badge/git.sr.ht/~wombelix/tpl)](https://api.reuse.software/info/git.sr.ht/~wombelix/tpl)
-[![builds.sr.ht status](https://builds.sr.ht/~wombelix/tpl.svg)](https://builds.sr.ht/~wombelix/tpl?)
+[![REUSE status](https://api.reuse.software/badge/github.com/wombelix/tpl)](https://api.reuse.software/info/github.com/wombelix/tpl)
+[![Mirror](https://github.com/wombelix/tpl/actions/workflows/mirror.yml/badge.svg)](https://github.com/wombelix/tpl/actions/workflows/mirror.yml)
 
 ## Table of Contents
 
 * [Source](#source)
+* [Architecture Decision Records](#architecture-decision-records)
 * [Contribute](#contribute)
 * [License](#license)
 
 ## Source
 
 The primary location is:
-[git.sr.ht/~wombelix/tpl](https://git.sr.ht/~wombelix/tpl)
+[github.com/wombelix/tpl](https://github.com/wombelix/tpl)
 
 Mirrors are available on
-[Codeberg](https://codeberg.org/wombelix/tpl),
+[Codeberg](https://codeberg.org/wombelix/tpl) and
 [Gitlab](https://gitlab.com/wombelix/tpl)
-and
-[GitHub](https://github.com/wombelix/tpl).
+
+## Architecture Decision Records
+
+**What** was decided and **why** can be found in [docs/adr/](docs/adr/).
 
 ## Contribute
 
-Please don't hesitate to provide feedback,
-open an issue, or create a Pull / Merge Request.
+Pick the platform you prefer and are most comfortable with.
 
-Just pick the workflow or platform you prefer and are most comfortable with.
-
-Feedback, bug reports, or patches sent to my sr.ht list
-[~wombelix/inbox@lists.sr.ht](https://lists.sr.ht/~wombelix/inbox) or via
-[Email and Instant Messaging](https://dominik.wombacher.cc/pages/contact.html)
-are also always welcome.
+Provide feedback, open an issue or create a pull / merge request.
 
 ## License
 
