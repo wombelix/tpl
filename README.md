@@ -25,7 +25,7 @@ The primary location is:
 
 Mirrors are available on
 [Codeberg](https://codeberg.org/wombelix/tpl) and
-[Gitlab](https://gitlab.com/wombelix/tpl)
+[Gitlab](https://gitlab.com/wombelix/tpl).
 
 ## Architecture Decision Records
 
