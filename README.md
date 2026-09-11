@@ -8,8 +8,10 @@ SPDX-License-Identifier: Apache-2.0
 
 Template repo with basic configs, LICENSE and README.
 
+<!-- markdownlint-disable MD013 -->
 [![REUSE status](https://api.reuse.software/badge/github.com/wombelix/tpl)](https://api.reuse.software/info/github.com/wombelix/tpl)
 [![Mirror](https://github.com/wombelix/tpl/actions/workflows/mirror.yml/badge.svg)](https://github.com/wombelix/tpl/actions/workflows/mirror.yml)
+<!-- markdownlint-enable MD013 -->
 
 ## Table of Contents
 
