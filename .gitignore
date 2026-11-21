@@ -1293,6 +1293,7 @@ $RECYCLE.BIN/
 secret*
 .secret*
 !go.mod
+!/scripts/
 **/collections/*/**
 **/roles/*/**
 .claude
